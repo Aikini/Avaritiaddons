@@ -8,4 +8,4 @@ container.CompressedChest=压缩箱子
 container.InfinityChest=无尽箱子
 container.ExtremeAutoCrafter=夜魇工作台
 
-tooltip.fillingRange=这是%1$s 的 %2$s
+tooltip.fillingRange=已使用 %1$s 格，上限 %2$s 格
